@@ -20,6 +20,11 @@ Proud of:
 - **[bettercapture](https://github.com/Deerpfy/bettercapture)** captures a page as snapshot, meta.json, and offline.html, ready to hand to an AI.
 - **[betterbookmarks](https://github.com/Deerpfy/betterbookmarks)** saves prompts as bookmarks. Offline, nothing leaves the browser.
 
+## Hardware
+Boards, firmware, and the enclosures around them. Raspberry Pi 5, ESP32, and several Arduino boards.
+- **LED and audio visualisation** ESP32-C3 firmware with a Go host driving addressable strips from a live audio signal.
+- **Enclosures and controls** 3D-printed parts designed in Fusion 360 and printed on a Bambu A1, including slider knob caps fitted to real potentiometer hardware.
+
 ## What I work with
 
 C# and .NET internals, C++, Go, PHP and Laravel, Chromium MV3 extensions, Unreal Engine.
